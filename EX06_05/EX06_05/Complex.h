@@ -66,8 +66,8 @@ public:
 		return *this;
 	}
 
-	double abs(const Complex& s) const {
-		return (sqrt(s.getReal()* s.getReal() + s.getImaginary() * s.getImaginary()));
+	double abs() const {
+		return (sqrt(real *real + imaginary*imaginary));
 	}
 
 	double & Complex:: operator[](int index) {
@@ -120,10 +120,10 @@ Complex operator/(const Complex&s1, const Complex&s2) { // (s1/s2)
 }
 
 ostream& operator<<(ostream & out, const Complex& s) { 
-	if (s.getImaginary() != 0)
+	if (s.getImaginary() == 0)
 		out << s.getReal(); //??????
 	else
-		out << s.getReal() << " + i" << s.getImaginary();
+		out << s.getReal() << " + " << s.getImaginary() << "i" << endl;
 	return out;
 }
 

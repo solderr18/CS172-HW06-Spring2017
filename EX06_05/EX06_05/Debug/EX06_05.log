@@ -1,4 +1,4 @@
 ﻿  Source.cpp
-c:\users\solderr18\desktop\cs172-hw06-spring2017\ex06_05\ex06_05\complex.h(84): warning C4172: returning address of local variable or temporary: temp
-  EX06_05.vcxproj -> C:\Users\solderr18\Desktop\CS172-HW06-Spring2017\EX06_05\Debug\EX06_05.exe
-  EX06_05.vcxproj -> C:\Users\solderr18\Desktop\CS172-HW06-Spring2017\EX06_05\Debug\EX06_05.pdb (Full PDB)
+c:\users\solderr18\documents\github\cs172-hw06-spring2017\ex06_05\ex06_05\complex.h(84): warning C4172: returning address of local variable or temporary: temp
+  EX06_05.vcxproj -> C:\Users\solderr18\Documents\GitHub\CS172-HW06-Spring2017\EX06_05\Debug\EX06_05.exe
+  EX06_05.vcxproj -> C:\Users\solderr18\Documents\GitHub\CS172-HW06-Spring2017\EX06_05\Debug\EX06_05.pdb (Full PDB)
