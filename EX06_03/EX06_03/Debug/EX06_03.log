@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\solderr18\desktop\cs172-hw06-spring2017\ex06_03\ex06_03\source.cpp(47): warning C4018: '<': signed/unsigned mismatch
+  EX06_03.vcxproj -> C:\Users\solderr18\Desktop\CS172-HW06-Spring2017\EX06_03\Debug\EX06_03.exe
+  EX06_03.vcxproj -> C:\Users\solderr18\Desktop\CS172-HW06-Spring2017\EX06_03\Debug\EX06_03.pdb (Full PDB)
